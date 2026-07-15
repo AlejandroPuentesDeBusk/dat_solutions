@@ -5,22 +5,22 @@
 brand
 
 ## Users
-Responsables de operaciones, mantenimiento y compras industriales que necesitan evaluar un proveedor de ensamblaje de maquinaria con rapidez, confianza y datos claros.
+Clientes residenciales, arquitectos, interioristas y negocios en Durango que buscan acabados de piedra de alta gama con instalación incluida.
 
 ## Product Purpose
-Dat Solutions presenta una landing page temporal para una empresa ficticia dedicada al ensamblaje, puesta en marcha y soporte de maquinas industriales. El objetivo es comunicar capacidad tecnica, procesos medibles y canales de contacto para solicitar una cotizacion.
+Pietra Santa presenta sus servicios de suministro e instalación profesional de mármol, granito, cantera, cuarzo, ónix y travertino. La página comunica lujo, precisión y confianza sin publicar precios por metro cuadrado, porque cada cotización depende del material, el espacio y la instalación.
 
 ## Brand Personality
-Precisa, industrial y confiable. La voz debe sonar tecnica sin ser fria: directa, orientada a produccion y enfocada en reducir riesgos de paro.
+Sofisticada, sobria y artesanal. La voz debe sentirse premium, clara y cercana, con énfasis en buen gusto, permanencia y ejecución cuidadosa.
 
 ## Anti-references
-No debe parecer una clinica, template medico, sitio generico de consultoria ni landing decorada con frases vacias. Evitar estadisticas imposibles, imagenes de stock sin relacion industrial y formularios excesivos.
+No debe parecer catálogo barato de materiales, ferretería, constructor genérico ni página industrial. Evitar saturación visual, precios por m², imágenes con marca de agua y promesas sin contexto.
 
 ## Design Principles
-- Mostrar el taller y el proceso antes que adornos.
-- Usar lenguaje operativo: tiempos, calibracion, QA, soporte y puesta en marcha.
-- Hacer que el contacto sea visible desde el primer viewport.
-- Mantener las secciones faciles de capturar como evidencia academica.
+- La piedra es protagonista: usar imágenes grandes y composición minimalista.
+- Vender instalación profesional, no solo producto.
+- Mantener la cotización como proceso personalizado.
+- Hacer visible la ubicación en Durango y la variedad de aplicaciones.
 
 ## Accessibility & Inclusion
-Apuntar a WCAG AA con contraste alto, navegacion por teclado, textos alternativos y animaciones respetuosas de `prefers-reduced-motion`.
+Apuntar a contraste WCAG AA, navegación por anclas, textos alternativos descriptivos y compatibilidad con `prefers-reduced-motion`.
